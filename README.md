@@ -16,7 +16,7 @@ Progressive 24-step depth recovery process on the LC-NYU dataset with point clou
 
 ### 2. KITTI Dynamic Sequence
 
-![KITTI-dynamic](https://raw.githubusercontent.com/yudmoe/burnDC/main/KITTI-dynamic.gif)
+![KITTI-dynamic](KITTI-dynamic.gif)
 
 Dynamic 50-frame continuous sequences on the KITTI dataset for real driving scene evaluation.
 
