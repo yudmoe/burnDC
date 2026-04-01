@@ -10,13 +10,13 @@ We provide two animated GIFs to further demonstrate the effectiveness and robust
 
 ### 1. NYU Progressive Recovery
 
-[NYU-progressive-burn](NYU-progressive-burn.gif)
+![NYU-progressive-burn](NYU-progressive-burn.gif)
 
 Progressive 24-step depth recovery process on the LC-NYU dataset with point cloud visualization.
 
 ### 2. KITTI Dynamic Sequence
 
-[KITTI-dynamic](KITTI-dynamic.gif)
+![KITTI-dynamic](KITTI-dynamic.gif)
 
 Dynamic 50-frame continuous sequences on the KITTI dataset for real driving scene evaluation.
 
