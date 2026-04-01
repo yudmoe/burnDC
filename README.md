@@ -26,7 +26,7 @@ Follow these steps to set up and run the framework:
 2. **Training Setup:** Open `settings_NYU.py` and set `test_only = False` to enable the training mode.
 3. **Execution:** Launch the main script using:
    ```bash
-   python main.py
+   python burn_DC_main.py
 
 ## 🚀 Future Plans & Updates
 
