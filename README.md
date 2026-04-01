@@ -10,7 +10,7 @@ We provide two animated GIFs to further demonstrate the effectiveness and robust
 
 ### 1. NYU Progressive Recovery
 
-![NYU-progressive-burn](https://raw.githubusercontent.com/yudmoe/burnDC/main/NYU-progressive-burn.gif)
+![NYU-progressive-burn](NYU-progressive-burn.gif)
 
 Progressive 24-step depth recovery process on the LC-NYU dataset with point cloud visualization.
 
