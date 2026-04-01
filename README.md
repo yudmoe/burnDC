@@ -8,13 +8,13 @@ Official implementation of BurnDC
 
 We provide two animated GIFs to further demonstrate the effectiveness and robustness of BurnDC:
 
-### 1. NYU Progressive Recovery
+### 1. NYU Progressive Recovery (NYU-progressive-burn.gif)
 
 ![NYU-progressive-burn](NYU-progressive-burn.gif)
 
 Progressive 24-step depth recovery process on the LC-NYU dataset with point cloud visualization.
 
-### 2. KITTI Dynamic Sequence
+### 2. KITTI Dynamic Sequence (KITTI-dynamic.gif)
 
 ![KITTI-dynamic](KITTI-dynamic.gif)
 
