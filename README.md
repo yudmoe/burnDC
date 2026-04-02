@@ -32,7 +32,7 @@ Follow these steps to set up and run the framework:
 
 ## 🚀 Future Plans & Updates
 
-We are committed to maintaining and improving this repository. Upcoming updates include:
+Upcoming updates include:
 - [ ] **Pre-trained Weights:** Release of model weights for LC-NYU, LC-KITTI, and LC-TIERS.
 - [ ] **Dataset Support:** Comprehensive instructions for reproducing TIERS benchmarks.
 - [ ] **Advanced Boundary Models:** Exploration of non-rectangular propagation envelopes.
