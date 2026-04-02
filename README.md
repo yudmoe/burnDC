@@ -9,11 +9,12 @@
 We provide animated visualizations to demonstrate the effectiveness and robustness of BurnDC in recovering dense geometry from low-coverage inputs.
 
 ### 1. NYU Progressive Recovery
-![NYU-progressive-burn](NYU-progressive-burn.gif)
+
+<video src="NYU-progressive-burn.mp4" autoplay loop muted playsinline width="600"></video>
+
 *This visualization illustrates the **progressive 24-step depth recovery process** on the LC-NYU dataset. The intermediate depth predictions are rendered as point clouds to highlight the stable geometric expansion.*
 
-<video src="NYU-progressive-burn.mp4" controls width="100%">
-*This visualization illustrates the **progressive 24-step depth recovery process** on the LC-NYU dataset. The intermediate depth predictions are rendered as point clouds to highlight the stable geometric expansion.*
+---
 
 
 ### 2. KITTI Dynamic Sequence
