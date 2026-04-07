@@ -16,7 +16,7 @@ We provide supplementary animated visualizations to further demonstrate the effe
 *This visualization presents the contiguous scenes in the KITTI validation set in their original temporal order. To keep the video compact, only the first 30 frames of each scene are shown. *
 
 
-### 2. nyu_progressive_burn.mp4,
+### 2. nyu_progressive_burn.mp4
 
 ![LC-NYU-progressive](nyu_progressive_burn.gif)
 
