@@ -6,23 +6,22 @@
 
 ## 🎥 Supplementary Visualizations
 
-We provide supplementary animated visualizations to further demonstrate the effectiveness and robustness of BurnDC under the LCDC setting. To avoid concerns about cherry-picking, the examples shown here are not manually selected, but are sampled from the evaluation sets according to fixed rules.
+We provide supplementary animated visualizations to further demonstrate the effectiveness and robustness of BurnDC under the LCDC setting. To avoid concerns about cherry-picking, the shown examples are sampled from the evaluation sets using fixed rules rather than manual selection.
 
 
 ### 1. LC-KITTI Multi-Scene Visualization
 
 ![LC-KITTI-multiscene](lc_kitti_scene_samples.gif)
 
-*This visualization presents multiple continuous scenes from LC-KITTI to illustrate the temporal consistency and robustness of BurnDC in realistic driving scenarios. 
-The displayed sequences follow a fixed sampling protocol instead of manual selection, helping provide a more representative qualitative evaluation.*
+*This visualization presents the contiguous scenes in the KITTI validation set in their original temporal order. To keep the video compact, only the first 30 frames of each scene are shown. *
 
 
 ### 2. LC-NYU Progressive Completion
 
 ![LC-NYU-progressive](nyu_progressive_burn.gif)
 
-*This visualization presents the progressive depth completion process on LC-NYU. The displayed samples are uniformly sampled from the test set at a fixed interval, rather than manually chosen. 
-For compact visualization, two samples are shown side by side in each sequence, with their original indices marked in the upper-left corner. The intermediate predictions are rendered as point clouds to highlight the gradual recovery of scene geometry.*
+*This visualization shows the progressive depth completion process on LC-NYU. The samples are uniformly selected from the test set at a fixed interval（50）, with two samples shown side by side and their original indices marked in the upper-left corner.*
+
 
 ---
 
