@@ -6,17 +6,23 @@
 
 ## 🎥 Supplementary Visualizations
 
-We provide animated visualizations to demonstrate the effectiveness and robustness of BurnDC in recovering dense geometry from low-coverage inputs.
+We provide supplementary animated visualizations to further demonstrate the effectiveness and robustness of BurnDC under the LCDC setting. To avoid concerns about cherry-picking, the examples shown here are not manually selected, but are sampled from the evaluation sets according to fixed rules.
 
-### 1. NYU Progressive Recovery
 
-![NYU-progressive-burn](NYU-progressive-burn.gif) 
+### 1. LC-KITTI Multi-Scene Visualization
 
-*This visualization illustrates the **progressive 24-step depth recovery process** on the LC-NYU dataset. The intermediate depth predictions are rendered as point clouds to highlight the stable geometric expansion.*
+![LC-KITTI-multiscene](lc_kitti_scene_samples.gif)
 
-### 2. KITTI Dynamic Sequence
-![KITTI-dynamic](KITTI-dynamic.gif)
-*A **dynamic 50-frame continuous sequence** from the LC-KITTI dataset, demonstrating BurnDC's temporal consistency and robustness in real-world driving scenarios.*
+*This visualization presents multiple continuous scenes from LC-KITTI to illustrate the temporal consistency and robustness of BurnDC in realistic driving scenarios. 
+The displayed sequences follow a fixed sampling protocol instead of manual selection, helping provide a more representative qualitative evaluation.*
+
+
+### 2. LC-NYU Progressive Completion
+
+![LC-NYU-progressive](nyu_progressive_burn.gif)
+
+*This visualization presents the progressive depth completion process on LC-NYU. The displayed samples are uniformly sampled from the test set at a fixed interval, rather than manually chosen. 
+For compact visualization, two samples are shown side by side in each sequence, with their original indices marked in the upper-left corner. The intermediate predictions are rendered as point clouds to highlight the gradual recovery of scene geometry.*
 
 ---
 
