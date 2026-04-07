@@ -9,14 +9,14 @@
 We provide supplementary animated visualizations to further demonstrate the effectiveness and robustness of BurnDC under the LCDC setting. To avoid concerns about cherry-picking, the shown examples are sampled from the evaluation sets using fixed rules rather than manual selection.
 
 
-### 1. LC-KITTI Multi-Scene Visualization
+### 1. lc_kitti_scene_samples.mp4 
 
 ![LC-KITTI-multiscene](lc_kitti_scene_samples.gif)
 
 *This visualization presents the contiguous scenes in the KITTI validation set in their original temporal order. To keep the video compact, only the first 30 frames of each scene are shown. *
 
 
-### 2. LC-NYU Progressive Completion
+### 2. nyu_progressive_burn.mp4,
 
 ![LC-NYU-progressive](nyu_progressive_burn.gif)
 
