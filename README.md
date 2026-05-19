@@ -45,7 +45,10 @@ Upcoming updates include:
 *We will continue to update this codebase as the research progresses. Stay tuned!*
 
 ---
+## Citation
+If you find our work useful, please cite our paper:
 
+```bibtex
 @article{zhu2026burndc,
   title={BurnDC: A Progressive Propagation Framework for Low Coverage Depth Completion},
   author={Zhu, Zhengyu and Zhang, Cong and Liu, Hongmin and Fan, Bin},
