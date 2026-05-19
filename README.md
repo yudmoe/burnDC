@@ -46,4 +46,11 @@ Upcoming updates include:
 
 ---
 
-
+@article{zhu2026burndc,
+  title={BurnDC: A Progressive Propagation Framework for Low Coverage Depth Completion},
+  author={Zhu, Zhengyu and Zhang, Cong and Liu, Hongmin and Fan, Bin},
+  journal={IEEE Robotics and Automation Letters},
+  year={2026},
+  pages={1-8},
+  doi={10.1109/LRA.2026.3693984}
+}
